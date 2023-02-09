@@ -39,7 +39,7 @@
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 
     position: relative;
     /* top: 10rem;
@@ -61,21 +61,20 @@ section {
 }
 
 .secHeading {
-    font-family: 'Kanit', sans-serif;
+    font-family: "Kanit", sans-serif;
     font-size: 5rem;
     padding: 0 10rem;
 }
 
-.text{
-    font-family: 'Quicksand', sans-serif;
+.text {
+    font-family: "Quicksand", sans-serif;
     font-size: 1.5rem;
     padding: 0 10rem;
     margin: 5rem 0;
 }
 
-
 .bg1 {
-    background-image: url(sport-1.jpg);
+    /* background-image: url(sport-1.jpg); */
 }
 
 .bg2 {
@@ -86,7 +85,7 @@ section {
     background-image: url(sport-3.jpg);
 }
 
-.bg{
+.bg {
     position: relative;
     width: 100%;
     height: 500px;
@@ -95,8 +94,9 @@ section {
     background-size: cover;
     border-radius: 12px;
 }
-.desc{
-    font-family: 'Oswald', sans-serif;
+
+.desc {
+    font-family: "Oswald", sans-serif;
     position: absolute;
     background-color: rgba(250, 250, 250, 0.89);
     border-radius: 7px;
